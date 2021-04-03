@@ -6,3 +6,6 @@ patch:
   SNYK-JS-LODASH-567746:
     - vue-tables-2 > @babel/helper-module-imports > @babel/types > lodash:
         patched: '2021-04-03T01:45:51.493Z'
+  SNYK-JS-LODASH-450202:
+    - vue-tables-2 > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2021-04-03T01:59:51.170Z'
